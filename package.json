@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "madewithpat",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "The personal website of Patrick Outler",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Patrick Outler <outler.patrick@gmail.com>",
   "dependencies": {
     "gatsby": "^2.0.76",
     "gatsby-image": "^2.0.20",
@@ -34,9 +34,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/poutler/madewithpat.xyz"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/poutler/madewithpat.xyz/issues"
   }
 }
